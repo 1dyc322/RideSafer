@@ -1,0 +1,172 @@
+html *
+{
+   font-family: Tahoma, Geneva, sans-serif !important;
+}
+.banner{
+	    font-size: 25px;
+		text-align: center;
+		padding: 10px;
+		border-bottom: solid;
+		background-color:   #007FBC;
+		color: white;
+}
+.sbanner{
+	    font-size: 17px;
+		text-align: center;
+		padding: 10px;
+		border-bottom: solid;
+}
+.nav{
+	width: 80px;
+	height: 65px;
+	
+}
+.inputName{
+	border:0;
+	margin-left:20px;
+	width:85px;
+	border-bottom:solid #3399ff;
+}
+.inputMobile{
+	margin-left:12px;
+	width:85px;
+	border:0;
+	border-bottom:solid #3399ff;
+}
+.inputEmail{
+	width:85px;
+	border:0;
+	border-bottom:solid #3399ff;
+}
+.infoTag{
+	padding-left:10px;
+	font-size: 19px;
+}
+.infoForm{
+	margin-left:12px;
+	width:150px;
+	border:0;
+	border-bottom:solid #3399ff;
+}
+#back{
+	position:absolute;
+	top: 18px; 
+	left: 320px
+}
+#upload{
+	background-color:#gray;
+    border: none;
+    color: white;
+	margin:12px;
+    border-radius: 5px;
+    padding: 10px 18px;
+    text-align: center;
+    font-size: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+#sostable{
+	border:solid red;
+	height: 250px;
+	
+}
+.infoForm#pc{
+	margin-left:12px;
+	width:50px;
+	border:0;
+	border-bottom:solid #3399ff;
+}
+#tripstarted{
+	background-color:#66ff33;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    padding: 18px 48px;
+    text-align: center;
+    font-size: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+#statelst{
+		margin-left:12px;
+}
+#mButton{
+	background-color:#80aaff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+	margin-top:10px;
+    padding: 10px 68px;
+    text-align: center;
+    font-size: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#yesButton{
+	background-color:red;
+    border: solid black;
+    color: white;
+    border-radius: 5px;
+
+    padding: 10px 18px;
+	margin-left:50px;
+	margin-bottom:10px;
+    text-align: center;
+    font-size: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+#noButton{
+	background-color:white;
+    border: solid;
+    color: black;
+    border-radius: 5px;
+    padding: 10px 18px;
+	margin-right:50px;
+    text-align: center;
+    font-size: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+#start {
+    background-color:#80aaff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 18px 48px;
+    text-align: center;
+    font-size: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+#mainbanner{
+	width: 375px;
+	height: 60px;
+	background-color:   #007FBC;
+}
+#mainmap
+{
+	width:370px;
+	height:450px;
+}
+
+#mainTable {
+width: 375px;
+height: 667px
+
+}
+
+#frame {
+border: 2px solid black;
+border-radius: 25px;  
+
+
+}
+

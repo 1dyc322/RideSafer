@@ -1,0 +1,80 @@
+﻿<!doctype html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title> RideSafer Home </title>
+      <link rel="stylesheet" type="text/css" href="style.css"/>
+      <link rel="stylesheet" type="text/css" href="media.css"/>
+	  <script src="js/project.js"></script>
+	  
+   </head>
+   <body>
+  <form name="tripinfo" action="ridestarted.html" onsubmit="return CheckForm()">
+      <table id="mainTable" align="center" cellspacing="0" cellpadding="0">
+         <tr  >
+            <td colspan="4" valign="top" height="30" >
+               <center class="banner"> TRIP DETAILS </center> <a href="home.html"><img id="back" width="20" height="20" src="pic/back.png"/></a>
+            </td>
+         </tr>
+         
+
+         <tr class="contactrowride">
+            <td class="infoTag">
+               From: 
+            </td>
+            <td>
+               
+                  <input class="infoForm" type="text" name="aaddr1" value="" >
+               
+            </td>
+         </tr>
+         <tr class="contactrowride">
+            <td class="infoTag">
+               TO: 
+            </td>
+            <td>
+               
+                  <input class="infoForm" type="text" name="aaddr2" value="" >
+               
+            </td>
+         </tr>
+         <tr class="contactrowride">
+            <td class="infoTag">
+               REGISTATION: 
+            </td>
+            <td>
+              
+                  <input class="infoForm" type="text" name="anumpla" value="" >
+               
+            </td>
+         </tr>
+         <tr class="contactrowride">
+            <td class="infoTag">
+               DRIVER'S NAME: 
+            </td>
+            <td>
+               
+                  <input class="infoForm" type="text" name="adrivername" value="" >
+               
+            </td>
+         </tr>
+         <tr class="contactrowride">
+            <td class="infoTag">
+                UPLOAD PHOTO: 
+            </td>
+            <td>
+               <input type="button" id="upload" value="upload" onclick="uploadphoto()" />
+						   <input type="file" style="display:none;" id="file" name="file" accept="image/*"/>
+            </td>
+         </tr>
+         <tr><td colspan="4">
+         <center>
+                   <input id="mButton" type="submit" value="Confirm Start">
+               </center>
+			   </td></tr>
+
+      </table>
+</form>
+   </body>
+</html>

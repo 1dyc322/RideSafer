@@ -1,0 +1,483 @@
+@media only screen and (min-device-width: 360px) {
+/* S7 portrait */
+	#mainTable {
+		width: 350px;
+		height: 620px
+
+	}
+.contactrowf{
+	float:none;
+}
+#mainbanner{
+	width: 345px;
+	height: 55px;
+}
+.mainmaptable{
+	height:450px;
+}
+	.mainmap
+{
+	width:345px;
+	height:445px;
+}
+.secmaptable{
+	height:425px;
+}
+	.secmap
+{
+	width:345px;
+	height:425px;
+}
+.buttonrow{
+	float:left;
+}
+#tripmap{
+	width: 335px;
+	height: 450px;
+}
+.tripbutton{ 
+ 	border: 1px solid black;
+	width: 55px;
+	height: 55px;
+	padding:5px;
+	margin-left:35px;
+}
+
+
+#start {
+    background-color:#80aaff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 12px 40px;
+    text-align: center;
+    font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.nav{
+	width: 82px;
+	height: 50px;
+	
+}
+#sostable{
+	border:solid red;
+	height: 250px;
+}
+	#back{
+	position:absolute;
+	top: 22px; 
+	left: 305px
+}
+}
+@media only screen and (min-device-width: 375px) {
+/* 6S portrait */
+    #mainbanner{
+	width: 361px;
+	height: 60px;
+}
+.contactrowf{
+	float:none;
+}
+.mainmaptable{
+	height:450px;
+}
+.mainmap
+{
+	width:361px;
+	height:450px;
+}
+.secmaptable{
+	height:430px;
+}
+.secmap
+{
+	width:361px;
+	height:430px;
+}
+
+.buttonrow{
+	float:left;
+
+}
+.tripbutton{ 
+ 	border: 1px solid black;
+	width: 65px;
+	height: 65px;
+	margin-left: 30px;
+	margin-top: 5px
+
+}
+#mainTable {
+width: 365px;
+height: 650px
+
+}
+
+.nav{
+	width: 86px;
+	height: 55px;;
+	
+}
+.infoTag{
+	padding-left:20px;
+
+}
+
+#start {
+    background-color:#80aaff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 13px 48px;
+    text-align: center;
+    font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#sostable{
+	border:solid red;
+	height: 250px;
+}
+#back{
+	position:absolute;
+	top: 22px; 
+	left: 320px
+}
+
+}
+@media only screen and (min-device-width: 640px) {
+/* S7 landscape */
+	#mainTable {
+		width: 630px;
+		height: 343px;
+
+	}
+	.contactrowf{
+	float:left;
+}
+	.contactrowme{
+		padding:10px;
+	float:left;
+}
+.contactrowride{
+	padding:10px;
+	float:left;
+}
+#mainbanner{
+	width: 625px;
+	height: 55px;
+}
+.mainmaptable{
+	height:180px;
+}
+	.mainmap
+{
+	width:625px;
+	height:180px;
+}
+.secmaptable{
+	height:220px;
+	
+}
+	.secmap
+{
+	width:525px;
+	height:220px;
+	padding-top: 5px;
+	
+}
+.buttonrow{
+	float:right;
+}
+.tripbutton{ 
+ 	border: 1px solid black;
+	width: 55px;
+	height: 55px;
+	margin-left: 0px;
+	
+}
+#start {
+    background-color:#80aaff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 09px 40px;
+    text-align: center;
+    font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.nav{
+	width: 153px;
+	height: 45px;
+
+}
+
+#mButton{
+	
+}
+#sostable{
+	border:solid red;
+	height: 150px;
+}
+
+#back{
+	position:absolute;
+	top: 22px; 
+	left: 580px
+}
+
+}
+@media only screen and (min-device-width: 667px) {
+/* 6S landscape */
+	#mainTable {
+		width: 655px;
+		height: 355px;
+
+	}
+#mainbanner{
+	width: 650px;
+	height: 55px;
+}
+.contactrowf{
+	float:left;
+}
+.contactrowride{
+	
+	padding:0px;
+	padding-left:10px;
+	float:left;
+}
+	.contactrowme{
+	padding:0px;
+	float:left;
+}
+.mainmaptable{
+	height:190px;
+}
+.mainmap
+{
+	width:650px;
+	height:190px;
+}
+.secmaptable{
+	height:225px;
+}
+.secmap
+{
+	width:550px;
+	height:225px;
+	padding-top: 5px;
+}
+.tripbutton{ 
+ 	border: 1px solid black;
+	width: 65px;
+	height: 65px;
+	padding:5px;
+		margin-left:0px;
+}
+.buttonrow{
+	float:right;
+}
+.infoTag{
+	padding:20px;
+	font-size: 19px;
+}
+#start {
+    background-color:#80aaff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 09px 40px;
+    text-align: center;
+    font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.nav{
+	width: 158px;
+	height: 45px;
+	
+}
+#sostable{
+	border:solid red;
+	height: 150px;
+}
+#mButton{
+	margin-top: 0px;
+}
+
+#back{
+	position:absolute;
+	top: 22px; 
+	left: 605px
+}
+
+}
+@media only screen and (min-device-width: 768px) {
+/* ipad portrait */
+	#mainTable {
+		width: 760px;
+		height: 1005px
+
+	}
+	#mainbannertable{
+		height:55px;
+	}
+	.contactrowf{
+	float:none;
+}
+.contactrowride{
+	
+	padding:0px;
+	padding-left:10px;
+	float:none;
+}
+#mainbanner{
+	width: 750px;
+	height: 55px;
+}
+.mainmaptable{
+	height:800px;
+}
+	.mainmap
+{
+	width:750px;
+	height:800px;
+}
+.secmaptable{
+	height:780px;
+}
+	.secmap
+{
+	width:750px;
+	height:780px;
+}
+.buttonrow{
+	float:left;
+}
+.tripbutton{ 
+ 	border: 1px solid black;
+	width: 85px;
+	height: 85px;
+	margin-left:110px;
+}
+#start {
+    background-color:#80aaff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 12px 80px;
+    text-align: center;
+    font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.nav{
+	width: 185px;
+	height: 50px;
+	
+}
+
+#sostable{
+	border:solid red;
+	height: 250px;
+	width: 550px;
+}
+
+#back{
+	position:absolute;
+	top: 22px; 
+	left: 705px
+}
+
+}
+@media only screen and (min-device-width: 1024px) {
+/* ipad landscape */
+#mainbanner{
+	width: 1008px;
+	height: 140px;
+}
+.contactrowf{
+	float:left;
+}
+.contactrowride{
+	
+	padding:0px;
+	padding-left:10px;
+	float:left;
+}
+.mainmaptable{
+	height:450px;
+}
+.mainmap
+{
+	width:1008px;
+	height:450px;
+}
+.buttonrow{
+	float:right;
+}
+.secmaptable{
+	height:590px;
+}
+	.secmap
+{
+	width:830px;
+	height:590px;
+}
+
+.tripbutton{ 
+ 	border: 1px solid black;
+	width: 85px;
+	height: 85px;
+		margin-left:0px;
+	
+	
+}
+#mainTable {
+width: 1008px;
+height: 750px
+
+}
+
+.nav{
+	width: 246px;
+	height: 55px;
+	
+}
+
+#sostable{
+	border:solid red;
+	height: 250px;
+	width: 600px;
+}
+
+#start {
+    background-color:#80aaff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 13px 148px;
+    text-align: center;
+    font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+#back{
+	position:absolute;
+	top: 22px; 
+	left: 960px
+}
+
+}
